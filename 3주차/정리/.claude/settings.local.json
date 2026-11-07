@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(brew install:*)",
+      "Bash(pdftotext \"/Users/ksj03/Library/CloudStorage/GoogleDrive-gwisej68@gmail.com/내 드라이브/대학교수업/db/3주차 정리/데베 3주차 배운 페이지.pdf\" -)",
+      "Bash(pdftotext \"/Users/ksj03/Library/CloudStorage/GoogleDrive-gwisej68@gmail.com/내 드라이브/대학교수업/db/3주차 정리/데베 3주차 배운 페이지.pdf\" /tmp/db3week.txt)",
+      "Read(//tmp/**)",
+      "Bash(python3:*)"
+    ]
+  }
+}

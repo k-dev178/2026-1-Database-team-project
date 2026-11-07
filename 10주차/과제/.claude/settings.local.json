@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/ksj/Library/CloudStorage/GoogleDrive-gwisej68@gmail.com/내 드라이브/대학교/데이터베이스/10주차/**)",
+      "Read(//Users/ksj/Library/CloudStorage/GoogleDrive-gwisej68@gmail.com/내 드라이브/대학교/데이터베이스/10주차/회의/**)"
+    ]
+  }
+}

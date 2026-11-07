@@ -1,0 +1,9 @@
+DROP TABLE `사후처리보증항목`;
+DROP TABLE `처리하다`;
+DROP TABLE `사후처리`;
+DROP TABLE `판매계약`;
+DROP TABLE `관리하다`;
+DROP TABLE `차량작업`;
+DROP TABLE `차량`;
+DROP TABLE `고객`;
+DROP TABLE `직원`;
