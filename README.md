@@ -15,3 +15,11 @@
 
 - 최종 보고서: [기말 발표자료](13주차/회의/기말_발표자료.md)
 - SQL 스크립트: [테이블 생성 및 데이터 조작](13주차/회의/sql_files/)
+
+## 팀원
+
+- Kwak Jun-o
+- Kim Seo-jin
+- Lee Jong-woong
+- Choi Jae-won
+- Lee Tae-yoon
